@@ -6,7 +6,7 @@
 
 [![RB's GitHub stats](https://github-readme-stats.vercel.app/api?username=9trocode&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=9trocode&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=9trocode&theme=dark)]
 
 
 - 🔭 I’m currently working on infrastructure and security at my day job.
