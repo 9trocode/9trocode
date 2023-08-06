@@ -4,9 +4,6 @@
 **9trocode/9trocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=9trococde&theme=dark)](https://git.io/streak-stats)
-
-
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=9trocode&show_icons=true&theme=dark&count_private=true)
 
 - 🔭 I’m currently working on infrastructure and security at my day job.
