@@ -11,3 +11,5 @@
 - 😄 Thoughts: [0xfeed.gitlab.io](https://#)
 
 ![](https://komarev.com/ghpvc/?username=9trocode)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=9trococde&theme=dark)](https://git.io/streak-stats)
