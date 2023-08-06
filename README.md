@@ -10,4 +10,6 @@
 - 📫 How to reach me: [this form](https://#).
 - 😄 Thoughts: [0xfeed.gitlab.io](https://#)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=9trococde&theme=dark)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=9trocode)
