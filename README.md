@@ -9,7 +9,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=9trocode&theme=dark)
 
 - 🔭 I’m currently working on infrastructure and security at my day job.
-- 📫 How to reach me: [this form](https://#).
-- 😄 Thoughts: [0xfeed.gitlab.io](https://#)
+- 📫 How to reach me: [this form]([https://#](https://nitrocode.sh)).
+- 😄 Thoughts: [nitrocode.sh](https://nitrocode.sh)
 
 ![](https://komarev.com/ghpvc/?username=9trocode)
