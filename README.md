@@ -42,7 +42,6 @@ current_focus:
 - **[Infrastructure as Code](https://github.com/PipeOpsHQ/infra)** - Scalable infrastructure templates and automation
 
 ### 💼 Enterprise Solutions
-- **[LIRS System](https://github.com/PipeOpsHQ/LIRS)** - Enterprise resource management solution
 - **[Messaging Service](https://github.com/PipeOpsHQ/messaging-service)** - Scalable messaging infrastructure
 
 ## 📊 GitHub Stats
